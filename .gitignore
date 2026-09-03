@@ -1,0 +1,10 @@
+# Local outputs produced by students
+runs/
+outputs/
+result.mp4
+*.pt
+*.onnx
+__pycache__/
+*.py[cod]
+.venv/
+venv/
